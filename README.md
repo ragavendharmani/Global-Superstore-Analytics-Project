@@ -43,11 +43,13 @@ Power BI – Interactive Visualization
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](images/powerbi_dashboard.png)
+<img width="914" height="510" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/8ebb7828-8607-4dce-b8c0-8736c65a6829" />
 
 ### Excel Dashboard
 
-![Excel Dashboard](images/excel_dashboard.png)
+<img width="1314" height="505" alt="Excel Dashboard 1" src="https://github.com/user-attachments/assets/27c09b10-023a-440a-b0f9-db5bdf53a790" />
+<img width="1322" height="517" alt="Excel Dashboard 2" src="https://github.com/user-attachments/assets/97d5d7b4-0a40-4134-a09b-df9c093a69a5" />
+
 
 ---
 
