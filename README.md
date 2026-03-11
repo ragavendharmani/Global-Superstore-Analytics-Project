@@ -1,36 +1,86 @@
-# 🛒 Global Superstore Data Analytics Project
+# Global Superstore End-to-End Data Analytics Project
 
-An end-to-end **data analytics project** that transforms raw retail data into actionable business insights using **Python, SQL, Excel, and Power BI**.
-
-This project demonstrates the complete **data analytics workflow — from data cleaning and analysis to business intelligence dashboards.**
+This project analyzes retail sales data to uncover business insights and improve profitability using data analytics tools.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
-Retail businesses generate large volumes of transactional data.  
-However, without proper analysis, it becomes difficult to identify **profit drivers, loss-making products, and customer behavior patterns**.
+Retail companies generate massive sales data but often struggle to convert it into actionable insights.
 
-This project analyzes the **Global Superstore dataset** to uncover insights that help businesses:
+This project demonstrates a complete analytics pipeline using:
 
-• Improve profitability  
+Python → SQL → Excel → Power BI
+
+to identify profitability issues and business opportunities.
+
+---
+
+## Tools Used
+
+Python – Data cleaning and preprocessing  
+SQL – Business analysis queries  
+Excel – KPI dashboard creation  
+Power BI – Interactive visualization  
+
+---
+
+## Project Workflow
+
+Raw Dataset  
+↓  
+Python – Data Cleaning  
+↓  
+SQL – Business Analysis  
+↓  
+Excel – KPI Dashboard  
+↓  
+Power BI – Interactive Visualization  
+
+---
+
+## Dashboard Preview
+
+### Power BI Dashboard
+
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
+### Excel Dashboard
+
+![Excel Dashboard](images/excel_dashboard.png)
+
+---
+
+## Key Business Questions
+
+• Which products generate losses?  
+• Which regions generate high sales but low profit?  
+• Which customer segments drive revenue?  
+• How discounts affect profitability?
+
+---
+
+## Key Insights
+
+• High discounts significantly reduce profit margins  
+• Tables and Bookcases are major loss-making products  
+• Consumer segment generates highest revenue  
+• Some regions have strong sales but poor profit margins  
+
+---
+
+## Business Impact
+
+The analysis helps companies:
+
+• Identify loss-making products  
 • Optimize discount strategies  
-• Identify high-performing regions  
-• Understand customer segments  
+• Focus on profitable regions  
+• Improve overall profitability  
 
 ---
 
-## 🛠 Tools & Technologies
+## Author
 
-| Tool | Purpose |
-|-----|------|
-| Python | Data cleaning and preprocessing |
-| SQL | Business data analysis |
-| Excel | KPI dashboard creation |
-| Power BI | Interactive business intelligence dashboard |
-
----
-
-## 🔄 Data Analytics Workflow
-
-The project follows a complete **end-to-end analytics pipeline**:
+Ragavendhar M  
+ Data Analyst
