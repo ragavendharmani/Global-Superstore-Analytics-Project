@@ -1,49 +1,36 @@
-# 🛒 Global Superstore End-to-End Data Analytics Project
+# 🛒 Global Superstore Data Analytics Project
 
-🚀 Turning raw retail data into actionable business insights using Python, SQL, Excel & Power BI
-![Python](https://img.shields.io/badge/Python-Data%20Cleaning-blue)
-![SQL](https://img.shields.io/badge/SQL-Business%20Analysis-orange)
-![Excel](https://img.shields.io/badge/Excel-KPI%20Dashboard-green)
-![PowerBI](https://img.shields.io/badge/PowerBI-Visualization-yellow)
-## 📊 Power BI Dashboard
-![Power BI](images/powerbi_overview.png)
+An end-to-end **data analytics project** that transforms raw retail data into actionable business insights using **Python, SQL, Excel, and Power BI**.
 
-## 📊 Excel Dashboard
-![Excel](images/excel_dashboard.png)
-## 🎯 Business Problem
+This project demonstrates the complete **data analytics workflow — from data cleaning and analysis to business intelligence dashboards.**
 
-The management wants to identify:
+---
 
-- Which products are causing losses?
-- Which regions generate high sales but low profit?
-- Which customer segment drives maximum revenue?
-- How discounts impact profitability?
-- ## 🔄 Project Workflow
+## 📌 Project Overview
 
-Raw Data  
-⬇  
-Python – Data Cleaning & Preprocessing  
-⬇  
-SQL – Business Analysis  
-⬇  
-Excel – KPI Dashboard  
-⬇  
-Power BI – Interactive Visualization
-## 📁 Dataset
+Retail businesses generate large volumes of transactional data.  
+However, without proper analysis, it becomes difficult to identify **profit drivers, loss-making products, and customer behavior patterns**.
 
-Global Superstore Dataset  
-10,000+ rows | 20+ columns
-## 📌 Key Insights
+This project analyzes the **Global Superstore dataset** to uncover insights that help businesses:
 
-- High discounts significantly reduce overall profitability
-- Tables & Bookcases are major loss-making sub-categories
-- Consumer segment contributes the highest revenue
-- Some regions have strong sales but poor profit margins
-- ## 💼 Business Impact
+• Improve profitability  
+• Optimize discount strategies  
+• Identify high-performing regions  
+• Understand customer segments  
 
-This dashboard helps stakeholders:
+---
 
-- Identify loss-making products
-- Optimize discount strategy
-- Focus on high-profit regions
-- Improve overall profitability
+## 🛠 Tools & Technologies
+
+| Tool | Purpose |
+|-----|------|
+| Python | Data cleaning and preprocessing |
+| SQL | Business data analysis |
+| Excel | KPI dashboard creation |
+| Power BI | Interactive business intelligence dashboard |
+
+---
+
+## 🔄 Data Analytics Workflow
+
+The project follows a complete **end-to-end analytics pipeline**:
